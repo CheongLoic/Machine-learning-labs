@@ -1,6 +1,7 @@
 # Machine-learning-labs
 
 By Loïc CHEONG (ING5, BDA2)
+Engineering student at ECE Paris
 
 This repository contains different labs in machine learning.
 
